@@ -1,0 +1,23 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bg-violet {
+    background-color: #e0d9eb;
+}
+
+.bg-violet-fonce {
+    background-color: #9166b5;
+}
+
+.border-violet {
+    border: solid 3px #9166b5;
+}
+
+.text-violet {
+    color: #9166b5;
+}
+
+.mt-6 {
+    margin-top: 70px;
+}

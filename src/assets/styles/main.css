@@ -1,0 +1,43 @@
+#header__logo {
+    height: 40px;
+}
+
+.nav__link:hover {
+    text-decoration: none;
+}
+
+.nav__ul {
+    list-style: none;
+    font-weight: bold;
+}
+
+.banner {
+    height: 70vh;
+    background-image: url("../images/pole-image-noir-et-blanc.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.page-section {
+    padding-top: 150px;
+    padding-bottom: 150px;
+    position: relative;
+}
+
+.page-section-title {
+    font-weight: bold;
+    position: absolute;
+    top: -60px;
+    font-size: 100px;
+}
+
+.banner-title {
+    font-weight: bold;
+    font-size: 130px;
+}
+
+.presse-icon {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 40px;
+}
